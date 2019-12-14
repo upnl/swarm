@@ -1,9 +1,0 @@
-version: '3'
-services:
-  gitlab:
-    image: pokemon-db:2019-09-23
-    hostname: pokemon.upnl.org
-    ports:
-      - 54323:54323
-    volumes:
-      - /srv/pokemon-db/:/app/pokemon/db/
