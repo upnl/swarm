@@ -1,3 +1,11 @@
+> ### 🚨 *OBSOLETED* 🚨
+>
+> This repository is obsoleted. See [upnl/kubernetes] for newer infrastructure.
+
+[upnl/kubernetes]: https://github.com/upnl/kubernetes
+
+&nbsp;
+
 유피넬 도커 스웜
 ========
 
